@@ -1,1 +1,1 @@
-# FarmEasy-Agricultural-equipment-rental
+# FarmEasy-Rental-Agricultural-equipment
